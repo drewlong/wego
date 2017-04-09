@@ -1,0 +1,4 @@
+{
+  "status":"200 OK",
+  "message":"Welcome to Wego, an API written in Go."
+}

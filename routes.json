@@ -1,0 +1,11 @@
+[{
+	"path": "/test",
+	"method": "GET",
+	"mode": "static",
+	"file": "test.json"
+}, {
+	"path": "/",
+	"method": "GET",
+	"mode": "static",
+	"file": "index.json"
+}]
